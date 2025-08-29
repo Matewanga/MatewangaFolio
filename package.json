@@ -20,7 +20,7 @@
     "react-parallax-tilt": "^1.7.306",
     "react-router-dom": "^6.8.1",
     "react-vertical-timeline-component": "^3.6.0",
-    "three": "^0.149.0",
+    "three": "^0.179.1",
     "three-mesh-bvh": "^0.8.0",
     "three-stdlib": "^2.16.0"
   },
